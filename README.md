@@ -1,8 +1,8 @@
 This is the code of the paper 'GFANC-Kalman: Generative Fixed-Filter Active Noise Control with CNN-Kalman Filtering' accepted by IEEE Signal Processing Letters.
 
-<img src="https://github.com/Luo-Zhengding/GFANC-Kalman/assets/95018034/d57c4dfe-84b6-4ec9-bb23-cc4a26531b5e" alt="The proposed GFANC-Kalman approach" width="500" height="400">
+<img src="https://github.com/Luo-Zhengding/GFANC-Kalman/assets/95018034/d57c4dfe-84b6-4ec9-bb23-cc4a26531b5e" alt="The proposed GFANC-Kalman approach" width="800" height="700">
 
-<img src="https://github.com/Luo-Zhengding/GFANC-Kalman/assets/95018034/dadf8ba5-9603-4f5c-9dac-24f274de014d" alt="Block diagram of the CNN-Kalman filtering module" width="500" height="400">
+<img src="https://github.com/Luo-Zhengding/GFANC-Kalman/assets/95018034/dadf8ba5-9603-4f5c-9dac-24f274de014d" alt="Block diagram of the CNN-Kalman filtering module" width="800" height="600">
 
 * You can easily run the "Main_GFANC_Kalman.ipynb" file to get the noise reduction results.
 If you are interested in the works, you can read and cite our papers. Thanks!
