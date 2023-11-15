@@ -13,7 +13,9 @@ This is the code of the paper 'GFANC-Kalman: Generative Fixed-Filter Active Nois
 </p>
 
 
-**You can easily run the "Main_GFANC_Kalman.ipynb" file to get the noise reduction results.**
+**You can easily run the "[Main_GFANC_Kalman.ipynb](https://github.com/Luo-Zhengding/GFANC-Kalman/blob/main/Main_GFANC_Kalman.ipynb)
+" file to get the noise reduction results.**
+
 If you are interested in the works, you can read and cite our papers. Thanks!
 
 This paper is an improvement upon my ICASSP paper 'Deep Generative Fixed-Filter Active Noise Control (GFANC)'.
