@@ -8,6 +8,8 @@ This is the code of the paper 'GFANC-Kalman: Generative Fixed-Filter Active Nois
 <p align="center">
 </p>
 
+<br> <!-- 添加空行 -->
+
 <p align="center">
   <img src="https://github.com/Luo-Zhengding/GFANC-Kalman/assets/95018034/dadf8ba5-9603-4f5c-9dac-24f274de014d" alt="" width="600" height="350">
 </p>
